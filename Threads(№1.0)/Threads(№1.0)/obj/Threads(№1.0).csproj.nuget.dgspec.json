@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rackm\\source\\repos\\BulatShavaliev\\C_sharp\\Threads(№1.0)\\Threads(№1.0)\\Threads(№1.0).csproj": {}
+    "C:\\Users\\rackm\\Source\\Repos\\BulatShavaliev\\C_sharp\\Threads(№1.0)\\Threads(№1.0)\\Threads(№1.0).csproj": {}
   },
   "projects": {
-    "C:\\Users\\rackm\\source\\repos\\BulatShavaliev\\C_sharp\\Threads(№1.0)\\Threads(№1.0)\\Threads(№1.0).csproj": {
+    "C:\\Users\\rackm\\Source\\Repos\\BulatShavaliev\\C_sharp\\Threads(№1.0)\\Threads(№1.0)\\Threads(№1.0).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rackm\\source\\repos\\BulatShavaliev\\C_sharp\\Threads(№1.0)\\Threads(№1.0)\\Threads(№1.0).csproj",
+        "projectUniqueName": "C:\\Users\\rackm\\Source\\Repos\\BulatShavaliev\\C_sharp\\Threads(№1.0)\\Threads(№1.0)\\Threads(№1.0).csproj",
         "projectName": "Threads(№1.0)",
-        "projectPath": "C:\\Users\\rackm\\source\\repos\\BulatShavaliev\\C_sharp\\Threads(№1.0)\\Threads(№1.0)\\Threads(№1.0).csproj",
+        "projectPath": "C:\\Users\\rackm\\Source\\Repos\\BulatShavaliev\\C_sharp\\Threads(№1.0)\\Threads(№1.0)\\Threads(№1.0).csproj",
         "packagesPath": "C:\\Users\\rackm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rackm\\source\\repos\\BulatShavaliev\\C_sharp\\Threads(№1.0)\\Threads(№1.0)\\obj\\",
+        "outputPath": "C:\\Users\\rackm\\Source\\Repos\\BulatShavaliev\\C_sharp\\Threads(№1.0)\\Threads(№1.0)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rackm\\AppData\\Roaming\\NuGet\\NuGet.Config",

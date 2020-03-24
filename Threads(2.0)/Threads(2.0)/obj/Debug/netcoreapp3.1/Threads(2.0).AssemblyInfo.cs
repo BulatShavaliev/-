@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Threads(№1.0)")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Threads(2.0)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Threads(№1.0)")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Threads(№1.0)")]
+[assembly: System.Reflection.AssemblyProductAttribute("Threads(2.0)")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Threads(2.0)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

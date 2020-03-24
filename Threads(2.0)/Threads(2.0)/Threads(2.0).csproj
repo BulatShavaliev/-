@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>Threads__1._0_</RootNamespace>
+    <RootNamespace>Threads_2._0_</RootNamespace>
   </PropertyGroup>
 
 </Project>

@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\bylat\\.nuget\\packages\\": {}
+    "C:\\Users\\rackm\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bylat\\source\\repos\\BulatShavaliev\\C_sharp\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\rackm\\Source\\Repos\\BulatShavaliev\\C_sharp\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\bylat\\source\\repos\\BulatShavaliev\\C_sharp\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-      "packagesPath": "C:\\Users\\bylat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bylat\\source\\repos\\BulatShavaliev\\C_sharp\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "projectPath": "C:\\Users\\rackm\\Source\\Repos\\BulatShavaliev\\C_sharp\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "packagesPath": "C:\\Users\\rackm\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rackm\\Source\\Repos\\BulatShavaliev\\C_sharp\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\bylat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\rackm\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

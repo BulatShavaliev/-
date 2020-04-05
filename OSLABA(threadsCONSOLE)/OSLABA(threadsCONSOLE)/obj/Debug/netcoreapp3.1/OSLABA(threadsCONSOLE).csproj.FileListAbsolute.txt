@@ -1,0 +1,13 @@
+C:\Users\bylat\source\repos\BulatShavaliev\C_sharp\OSLABA(threadsCONSOLE)\OSLABA(threadsCONSOLE)\obj\Debug\netcoreapp3.1\OSLABA(threadsCONSOLE).csprojAssemblyReference.cache
+C:\Users\bylat\source\repos\BulatShavaliev\C_sharp\OSLABA(threadsCONSOLE)\OSLABA(threadsCONSOLE)\obj\Debug\netcoreapp3.1\OSLABA(threadsCONSOLE).csproj.CoreCompileInputs.cache
+C:\Users\bylat\source\repos\BulatShavaliev\C_sharp\OSLABA(threadsCONSOLE)\OSLABA(threadsCONSOLE)\obj\Debug\netcoreapp3.1\OSLABA(threadsCONSOLE).AssemblyInfoInputs.cache
+C:\Users\bylat\source\repos\BulatShavaliev\C_sharp\OSLABA(threadsCONSOLE)\OSLABA(threadsCONSOLE)\obj\Debug\netcoreapp3.1\OSLABA(threadsCONSOLE).AssemblyInfo.cs
+C:\Users\bylat\source\repos\BulatShavaliev\C_sharp\OSLABA(threadsCONSOLE)\OSLABA(threadsCONSOLE)\bin\Debug\netcoreapp3.1\OSLABA(threadsCONSOLE).exe
+C:\Users\bylat\source\repos\BulatShavaliev\C_sharp\OSLABA(threadsCONSOLE)\OSLABA(threadsCONSOLE)\bin\Debug\netcoreapp3.1\OSLABA(threadsCONSOLE).deps.json
+C:\Users\bylat\source\repos\BulatShavaliev\C_sharp\OSLABA(threadsCONSOLE)\OSLABA(threadsCONSOLE)\bin\Debug\netcoreapp3.1\OSLABA(threadsCONSOLE).runtimeconfig.json
+C:\Users\bylat\source\repos\BulatShavaliev\C_sharp\OSLABA(threadsCONSOLE)\OSLABA(threadsCONSOLE)\bin\Debug\netcoreapp3.1\OSLABA(threadsCONSOLE).runtimeconfig.dev.json
+C:\Users\bylat\source\repos\BulatShavaliev\C_sharp\OSLABA(threadsCONSOLE)\OSLABA(threadsCONSOLE)\bin\Debug\netcoreapp3.1\OSLABA(threadsCONSOLE).dll
+C:\Users\bylat\source\repos\BulatShavaliev\C_sharp\OSLABA(threadsCONSOLE)\OSLABA(threadsCONSOLE)\bin\Debug\netcoreapp3.1\OSLABA(threadsCONSOLE).pdb
+C:\Users\bylat\source\repos\BulatShavaliev\C_sharp\OSLABA(threadsCONSOLE)\OSLABA(threadsCONSOLE)\obj\Debug\netcoreapp3.1\OSLABA(threadsCONSOLE).dll
+C:\Users\bylat\source\repos\BulatShavaliev\C_sharp\OSLABA(threadsCONSOLE)\OSLABA(threadsCONSOLE)\obj\Debug\netcoreapp3.1\OSLABA(threadsCONSOLE).pdb
+C:\Users\bylat\source\repos\BulatShavaliev\C_sharp\OSLABA(threadsCONSOLE)\OSLABA(threadsCONSOLE)\obj\Debug\netcoreapp3.1\OSLABA(threadsCONSOLE).genruntimeconfig.cache

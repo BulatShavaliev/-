@@ -48,12 +48,10 @@ class PriorityTest //класc
         {
             threadCount++;
         }
-        Console.WriteLine("{0,-11} with {1,11} priority " + "has a count = {2,13}", 
-            Thread.CurrentThread.Name, Thread.CurrentThread.Priority.ToString(),
-            threadCount.ToString("N0"));
+        Console.WriteLine("{0,-11} with {1,11} priority " + "has a count = {2,13}", Thread.CurrentThread.Name, Thread.CurrentThread.Priority.ToString(), threadCount.ToString("N0"));
     }
 }
 // The example displays output like the following:
-//    ThreadOne   with      Normal priority has a count =   755,897,581
+//    ThreadOne   with     Normal priority has a count =   755,897,581
 //    ThreadThree with вышеNormal priority has a count =   778,099,094
 //    ThreadTwo   with нижеNormal priority has a count =     7,840,984

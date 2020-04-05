@@ -48,7 +48,7 @@ class PriorityTest //класc
         {
             threadCount++;
         }
-        Console.WriteLine("{0,-11} with {1,11} priority " + "has a count = {2,13}", 
+        Console.WriteLine("{0,-11} with {1,11} priority " + "has a count = {2,13}",
             Thread.CurrentThread.Name, Thread.CurrentThread.Priority.ToString(),
             threadCount.ToString("N0"));
     }
